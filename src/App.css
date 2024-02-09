@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* cursor: pointer; */
 }
 
 .valentine-container {
@@ -19,6 +20,7 @@ button {
   margin: 5px;
   padding: 5px;
   font-size: 16px;
+  cursor: pointer;
 }
 
 .yesButton {
