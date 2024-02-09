@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bemine/static/css/main.55168408.css",
-    "main.js": "/bemine/static/js/main.0d78ec3a.js",
+    "main.css": "/bemine/static/css/main.38d24545.css",
+    "main.js": "/bemine/static/js/main.5e487725.js",
     "index.html": "/bemine/index.html",
-    "main.55168408.css.map": "/bemine/static/css/main.55168408.css.map",
-    "main.0d78ec3a.js.map": "/bemine/static/js/main.0d78ec3a.js.map"
+    "main.38d24545.css.map": "/bemine/static/css/main.38d24545.css.map",
+    "main.5e487725.js.map": "/bemine/static/js/main.5e487725.js.map"
   },
   "entrypoints": [
-    "static/css/main.55168408.css",
-    "static/js/main.0d78ec3a.js"
+    "static/css/main.38d24545.css",
+    "static/js/main.5e487725.js"
   ]
 }
