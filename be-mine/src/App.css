@@ -1,0 +1,30 @@
+
+
+.valentine-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+img {
+  height: 200px;
+}
+
+button {
+  margin: 10px;
+  font-size: 16px;
+}
+
+.yesButton {
+  background-color: rgb(194, 255, 103);
+  border: 2px solid #808080;
+  border-radius: 5px;
+}
+
+.noButton{
+  background-color: rgb(255, 118, 118);
+  border: 2px solid #808080;
+  border-radius: 5px;
+}
