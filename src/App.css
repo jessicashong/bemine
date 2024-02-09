@@ -13,24 +13,36 @@
 }
 
 img {
-  height: 200px;
+  height: 250px;
 }
 
 button {
   margin: 5px;
-  padding: 5px;
+  padding: 10px;
   font-size: 16px;
   cursor: pointer;
+  color: black;
 }
 
 .yesButton {
+  /* display: block; */
   background-color: rgb(194, 255, 103);
   border: 2px solid #808080;
   border-radius: 5px;
 }
 
 .noButton{
+  /* display: block; */
   background-color: rgb(255, 118, 118);
   border: 2px solid #808080;
   border-radius: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  button{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+  }
 }
