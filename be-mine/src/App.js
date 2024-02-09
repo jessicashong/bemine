@@ -6,9 +6,11 @@ const phrases = [
   'Are you sure?',
   'Try again',
   'Beb, please',
+  '🥲',
   "Don't do this to me",
   'About to be bbij',
   'u kidding me?',
+  '🙄',
 ];
 
 
@@ -30,7 +32,7 @@ function App() {
       {yesPress ? (
         <>
           <img alt='jump hug' src='https://media.tenor.com/A0p8Dwm8YYwAAAAi/akirambow-smile-person.gif' />
-          <div className='text'>Yay!!!!</div>
+          <div className='text'>okie, yay</div>
           </>
       ) : (
 

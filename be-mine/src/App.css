@@ -1,4 +1,7 @@
-
+* {
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 .valentine-container {
   display: flex;
@@ -13,7 +16,8 @@ img {
 }
 
 button {
-  margin: 10px;
+  margin: 5px;
+  padding: 5px;
   font-size: 16px;
 }
 
